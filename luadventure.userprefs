@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Main.cs">
+    <Files>
+      <File FileName="Main.cs" Line="13" Column="4" />
+      <File FileName="AppController.cs" Line="7" Column="31" />
+      <File FileName="LuAdventureProject\Project.cs" Line="68" Column="6" />
+      <File FileName="LuAdventureProject\SceneObject.cs" Line="6" Column="9" />
+      <File FileName="LuAdventureProject\Room.cs" Line="11" Column="17" />
+      <File FileName="GUIController.cs" Line="16" Column="43" />
+      <File FileName="Components\ComponentController.cs" Line="5" Column="5" />
+      <File FileName="Utility\LuaSerializer.cs" Line="77" Column="18" />
+      <File FileName="MainWindow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
